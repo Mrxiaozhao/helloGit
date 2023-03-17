@@ -6,5 +6,7 @@ public class HelloGIt {
         System.out.println("udpate1");
         System.out.println("主干添加");
         System.out.println("分支添加");
+        System.out.println("在线添加");
+        
     }
 }
